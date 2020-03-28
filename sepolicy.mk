@@ -48,4 +48,5 @@ else
     endif
 endif
 
--include device/xperience/sepolicy/qcom/sepolicy.mk
+# not added yet
+#-include device/axolotl/sepolicy/qcom/sepolicy.mk
